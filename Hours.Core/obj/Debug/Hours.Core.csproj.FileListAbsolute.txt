@@ -1,0 +1,10 @@
+C:\Projects\Casemate\Hours\Hours.Core\obj\Debug\Hours.Core.csprojResolveAssemblyReference.cache
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\Hours.Core.dll.config
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\Hours.Core.dll
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\Hours.Core.pdb
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\EntityFramework.dll
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\EntityFramework.xml
+C:\Projects\Casemate\Hours\Hours.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Casemate\Hours\Hours.Core\obj\Debug\Hours.Core.dll
+C:\Projects\Casemate\Hours\Hours.Core\obj\Debug\Hours.Core.pdb
